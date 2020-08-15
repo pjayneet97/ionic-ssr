@@ -1,0 +1,7 @@
+{
+  "name": "speet-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
